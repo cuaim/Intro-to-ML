@@ -4,7 +4,7 @@ Basic roadmap guide courses from Udacity
 
 ---
 
-### Machine Learning Engineer Nanodegree
+### Machine Learning Engineer
 
 Machine learning represents a key evolution in the fields of computer
 science, data analysis, software engineering, and artificial intelligence.
